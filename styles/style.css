@@ -239,7 +239,7 @@
 }
 
 .events__more:hover::after {
-  content: "More Events";
+  color: #1f69c9;
 }
 
 .events__cover {
@@ -460,7 +460,6 @@
   margin: 0;
   color: white;
   font-size: 16px;
-  line-height: 16px;
   text-decoration: none;
 }
 
