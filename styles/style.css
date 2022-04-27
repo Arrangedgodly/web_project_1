@@ -238,7 +238,7 @@
   text-decoration: none;
 }
 
-.events__more:hover::after {
+.events__more:hover {
   color: #1f69c9;
 }
 
